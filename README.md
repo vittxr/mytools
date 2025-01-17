@@ -1,14 +1,14 @@
 ### Frontend
 
 - Framework: React, Svelte, Expo & ReactNative   
-- CSS Framework: Tailwind, Bootstrap
+- CSS Framework: Tailwind, Shadcn/ui, Bootstrap
 - Form: React Hook Form
 - Schema/Form validation: Zod, Yup
 - Requests: Axios, Tanstack/ReactQuery
 - Table: tanstack/table, AG Grid, MUIDatatables, Datatables.net
 - State management: Zustand
 - Conditional classes: clsx, classnames 
-- File upload Filepond
+- File upload: Filepond
 - Dates: DayJS
 - Charts: Recharts
 - Drag and drop: react-beautiful-dnd
