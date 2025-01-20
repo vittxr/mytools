@@ -38,6 +38,11 @@
 - HTTP Servers: NGINX, Apache
 - Applications management: Supervisorctl, Systemd  
 - Firewall: UFW
+
+### AIs
+
+- LLMs: chatgpt, gemini
+- logo generation: logo.com
  
 ### Others
 
