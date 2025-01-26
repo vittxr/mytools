@@ -61,11 +61,21 @@
 
 ### Backend
 
-- **Frameworks:** [FastAPI](https://github.com/tiangolo/fastapi), [Flask](https://github.com/pallets/flask)  
-- **ORM:** [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy), [SQLModel](https://github.com/tiangolo/sqlmodel)  
-- **SQL Drivers:** [PyMySQL](https://github.com/PyMySQL/PyMySQL), [mysql-connector-python](https://github.com/mysql/mysql-connector-python)  
-- **Validation:** [Pydantic](https://github.com/pydantic/pydantic)  
-- **Database migration:** [Alembic](https://github.com/sqlalchemy/alembic), [Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate)  
+- **Frameworks:**
+  - [FastAPI](https://github.com/tiangolo/fastapi)
+  - [Flask](https://github.com/pallets/flask)  
+- **ORM:**
+  - [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy)
+  - [SQLModel](https://github.com/tiangolo/sqlmodel)  
+- **SQL Drivers:**
+  - [PyMySQL](https://github.com/PyMySQL/PyMySQL)
+  - [mysql-connector-python](https://github.com/mysql/mysql-connector-python)
+  - [psycopg](https://github.com/psycopg/psycopg)
+- **Validation:**
+  - [Pydantic](https://github.com/pydantic/pydantic)  
+- **Database migration:**
+  - [Alembic](https://github.com/sqlalchemy/alembic)
+  - [Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate)  
 
 ### Databases
 
