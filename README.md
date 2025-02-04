@@ -103,11 +103,12 @@
 - **Firewall:**
   - [UFW](https://help.ubuntu.com/community/UFW)  
 - **Monitoring:**
-  - [Sentry](https://github.com/getsentry/sentry) 
+  - [Sentry](https://github.com/getsentry/sentry): APM 
+  - [Wireshark](https://www.wireshark.org/): network traffic 
 
 ### AIs
 
-- **LLMs:** [ChatGPT](https://github.com/openai), [Gemini](https://www.google.com/search?q=gemini+ai)  
+- **LLMs:** [ChatGPT](https://github.com/openai), [Gemini](https://www.google.com/search?q=gemini+ai), [deepseek](https://chat.deepseek.com/)
 - **Logo generation:** [Logo.com](https://logo.com/)  
 
 ### Others
