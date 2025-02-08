@@ -46,7 +46,9 @@
 - **Icons:**
   - [heroicons](https://github.com/tailwindlabs/heroicons)
   - [lucide-icons](https://github.com/lucide-icons/lucide)
-  - [react-icons](https://github.com/react-icons/react-icons) 
+  - [react-icons](https://github.com/react-icons/react-icons)
+- **Performance tools:**
+  - [react-scan](https://github.com/aidenybai/react-scan): check components rerenders 
 - **Others:** 
   - [TypeScript](https://github.com/microsoft/TypeScript)
   - [JavaScript](https://github.com/tc39)
