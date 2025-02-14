@@ -116,14 +116,21 @@
 - **LLMs:**
   - [ChatGPT](https://github.com/openai)
   - [Gemini](https://www.google.com/search?q=gemini+ai)
-  - [deepseek](https://chat.deepseek.com/)
+  - [Deepseek](https://chat.deepseek.com/)
 - **Logo generation:** [Logo.com](https://logo.com/)  
 
 ### Linux
 
+- **Distros**:
+  - Debian
+  - Ubuntu
+  - Linux mint
 - **Video screen record**:
   - [SimpleScreenRecord](https://www.maartenbaert.be/simplescreenrecorder/)
-
+- **USB installation media (ISOs)**:
+  - [Balena Etcher](https://etcher.balena.io/#download-etcher)
+  - [Rufus](https://github.com/pbatard/rufus)
+    
 ### Others
 
 - **Versioning:** [Git/GitHub](https://github.com/git/git)  
