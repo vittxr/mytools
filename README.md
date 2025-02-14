@@ -113,8 +113,16 @@
 
 ### AIs
 
-- **LLMs:** [ChatGPT](https://github.com/openai), [Gemini](https://www.google.com/search?q=gemini+ai), [deepseek](https://chat.deepseek.com/)
+- **LLMs:**
+  - [ChatGPT](https://github.com/openai)
+  - [Gemini](https://www.google.com/search?q=gemini+ai)
+  - [deepseek](https://chat.deepseek.com/)
 - **Logo generation:** [Logo.com](https://logo.com/)  
+
+### Linux
+
+- **Video screen record**:
+  - [SimpleScreenRecord](https://www.maartenbaert.be/simplescreenrecorder/)
 
 ### Others
 
