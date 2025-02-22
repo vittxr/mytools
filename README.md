@@ -65,7 +65,8 @@
 
 - **Frameworks:**
   - [FastAPI](https://github.com/tiangolo/fastapi)
-  - [Flask](https://github.com/pallets/flask)  
+  - [Flask](https://github.com/pallets/flask)
+  - [Laravel](https://github.com/laravel/laravel)
 - **ORM:**
   - [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy)
   - [SQLModel](https://github.com/tiangolo/sqlmodel)
@@ -80,7 +81,7 @@
   - [Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate)
 - **Python typing hints**
   - [mypy](https://github.com/python/mypy)
-  - [pylance(https://github.com/microsoft/pylance-release) 
+  - [pylance](https://github.com/microsoft/pylance-release) 
 
 ### Databases
 
