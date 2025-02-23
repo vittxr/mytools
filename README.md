@@ -47,6 +47,7 @@
   - [heroicons](https://github.com/tailwindlabs/heroicons)
   - [lucide-icons](https://github.com/lucide-icons/lucide)
   - [react-icons](https://github.com/react-icons/react-icons)
+  - [devicons](https://devicon.dev/)
 - **Performance tools:**
   - [react-scan](https://github.com/aidenybai/react-scan): check components rerenders 
 - **Others:** 
