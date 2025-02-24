@@ -82,7 +82,9 @@
   - [Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate)
 - **Python typing hints**
   - [mypy](https://github.com/python/mypy)
-  - [pylance](https://github.com/microsoft/pylance-release) 
+  - [pylance](https://github.com/microsoft/pylance-release)
+- **API Testing**
+  - [Postman](https://www.postman.com/) 
 
 ### Databases
 
