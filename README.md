@@ -22,6 +22,7 @@
   - [TanStack Table](https://github.com/TanStack/table)
   - [Shadcdn Table](https://github.com/sadmann7/shadcn-table)
   - [AG Grid](https://github.com/ag-grid/ag-grid)
+  - [Tw Table](https://github.com/vittxr/tw-table): I maintain this table and I am using it in some of my projects.
   - [MUI-Datatables](https://github.com/gregnb/mui-datatables)
   - [Datatables.net](https://github.com/DataTables/DataTables)  
 - **State management:**
