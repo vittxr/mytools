@@ -84,7 +84,7 @@
 - **Python typing hints**
   - [mypy](https://github.com/python/mypy)
   - [pylance](https://github.com/microsoft/pylance-release)
-- **Python Linter**
+- **Python Linter & Formatters**
   - [ruff](https://docs.astral.sh/ruff/)
 - **API Testing**
   - [Postman](https://www.postman.com/) 
