@@ -81,9 +81,9 @@
 - **Database migration:**
   - [Alembic](https://github.com/sqlalchemy/alembic)
   - [Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate)
-- **Python typing hints**
-  - [mypy](https://github.com/python/mypy)
-  - [pylance](https://github.com/microsoft/pylance-release)
+- **Python type checker**
+  - [pylance/pyright](https://github.com/microsoft/pylance-release)
+  - [mypy](https://github.com/python/mypy): I prefer to use pyright.
 - **Python Linter & Formatters**
   - [ruff](https://docs.astral.sh/ruff/)
 - **API Testing**
