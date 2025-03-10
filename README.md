@@ -87,7 +87,7 @@
 - **Python Linter & Formatters**
   - [ruff](https://docs.astral.sh/ruff/)
 - **API Testing**
-  - [Postman](https://www.postman.com/) 
+  - [Postman](https://www.postman.com/)
 
 ### Databases
 
@@ -118,12 +118,22 @@
   - [Sentry](https://github.com/getsentry/sentry): APM 
   - [Wireshark](https://www.wireshark.org/): network traffic 
 
+### **Python package management**
+  - [uv](https://github.com/astral-sh/uv)
+  - [pip]()
+  
+### **JS package manament**
+  - [yarn]()
+  - [npm]()  
+
 ### AIs
 
 - **LLMs:**
   - [ChatGPT](https://github.com/openai)
   - [Gemini](https://www.google.com/search?q=gemini+ai)
   - [Deepseek](https://chat.deepseek.com/)
+  - [Grok](https://grok.com/)
+  - [Claude](https://claude.ai/)
 - **Logo generation:** [Logo.com](https://logo.com/)  
 
 ### Linux
