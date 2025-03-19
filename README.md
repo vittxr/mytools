@@ -10,6 +10,7 @@
   - [Shadcn/ui](https://github.com/shadcn/ui)
     - [shadcdn custom themes](https://ui.jln.dev/)
     - [shadcdn custom themes](https://zippystarter.com/tools/shadcn-ui-theme-generator)
+    - [shadcdn form build](https://www.shadcn-form.com/)
   - [Radix ui](https://github.com/radix-ui/primitives)
   - [Tailwind Headlessui](https://github.com/tailwindlabs/headlessui)
 - **Form:**
