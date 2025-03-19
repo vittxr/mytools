@@ -8,6 +8,8 @@
   - [Bootstrap](https://github.com/twbs/bootstrap)
 - **UI Libs:**
   - [Shadcn/ui](https://github.com/shadcn/ui)
+    - [shadcdn custom themes](https://ui.jln.dev/)
+    - [shadcdn custom themes](https://zippystarter.com/tools/shadcn-ui-theme-generator)
   - [Radix ui](https://github.com/radix-ui/primitives)
   - [Tailwind Headlessui](https://github.com/tailwindlabs/headlessui)
 - **Form:**
