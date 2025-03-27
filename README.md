@@ -8,9 +8,10 @@
   - [Bootstrap](https://github.com/twbs/bootstrap)
 - **UI Libs:**
   - [Shadcn/ui](https://github.com/shadcn/ui)
-    - [shadcdn custom themes](https://ui.jln.dev/)
-    - [shadcdn custom themes](https://zippystarter.com/tools/shadcn-ui-theme-generator)
-    - [shadcdn form build](https://www.shadcn-form.com/)
+    - [shadcn custom themes](https://ui.jln.dev/)
+    - [shadcn custom themes](https://zippystarter.com/tools/shadcn-ui-theme-generator)
+    - [shadcn form build](https://www.shadcn-form.com/)
+    - [more shadcn ui blocks](https://www.shadcnui-blocks.com/components/pagination)
   - [Radix ui](https://github.com/radix-ui/primitives)
   - [Tailwind Headlessui](https://github.com/tailwindlabs/headlessui)
 - **Form:**
