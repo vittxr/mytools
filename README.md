@@ -157,3 +157,8 @@
 ### Others
 
 - **Versioning:** [Git/GitHub](https://github.com/git/git)  
+
+### IDE
+
+- [cursor](https://www.cursor.com/)
+- [vscode](https://code.visualstudio.com/)
