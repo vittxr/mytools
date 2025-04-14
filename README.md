@@ -128,9 +128,15 @@
   - [uv](https://github.com/astral-sh/uv)
   - [pip]()
   
-### **JS package manament**
+### **JS package management**
   - [yarn]()
   - [npm]()  
+
+### **Data analysis**
+  - [pandas](https://github.com/pandas-dev/pandas)
+  - [numpy](https://github.com/numpy/numpy)
+  - [qgis](https://www.qgis.org/): desktop app to analyze [prescription farming maps](https://www.automaticfarmsolution.com/post/how-prescription-maps-revolutionize-farming). 
+
 
 ### AIs
 
