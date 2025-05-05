@@ -83,7 +83,7 @@
   - [PyMySQL](https://github.com/PyMySQL/PyMySQL)
   - [mysql-connector-python](https://github.com/mysql/mysql-connector-python)
   - [psycopg](https://github.com/psycopg/psycopg)
-- **Python Validation:**
+- **Python Validation/Transformation:**
   - [Pydantic](https://github.com/pydantic/pydantic): Python data validation
 - **Python Database migration:**
   - [Alembic](https://github.com/sqlalchemy/alembic)
@@ -93,7 +93,7 @@
   - [mypy](https://github.com/python/mypy): I prefer to use pyright.
 - **Python Linter & Formatters**
   - [ruff](https://docs.astral.sh/ruff/)
-- **JS/TS Validation**:
+- **JS/TS Validation/Transformation**:
   - [class-transformer](https://github.com/typestack/class-transformer)  
 - **API Testing**
   - [Postman](https://www.postman.com/)
@@ -128,15 +128,12 @@
 - **Monitoring:**
   - [Sentry](https://github.com/getsentry/sentry): APM 
   - [Wireshark](https://www.wireshark.org/): network traffic 
-
 ### **Python package management**
   - [uv](https://github.com/astral-sh/uv)
-  - [pip]()
-  
+  - [pip]()  
 ### **JS package management**
   - [yarn]()
   - [npm]()  
-
 ### **Data analysis**
   - [pandas](https://github.com/pandas-dev/pandas)
   - [numpy](https://github.com/numpy/numpy)
