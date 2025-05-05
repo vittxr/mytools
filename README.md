@@ -76,16 +76,16 @@
   - [Flask](https://github.com/pallets/flask)
   - [Laravel](https://github.com/laravel/laravel)
   - [ExpressJS](https://github.com/expressjs/express)
-- **ORM:**
+- **Python ORM:**
   - [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy)
   - [SQLModel](https://github.com/tiangolo/sqlmodel)
-- **SQL Drivers:**
+- **Python SQL Drivers:**
   - [PyMySQL](https://github.com/PyMySQL/PyMySQL)
   - [mysql-connector-python](https://github.com/mysql/mysql-connector-python)
   - [psycopg](https://github.com/psycopg/psycopg)
-- **Validation:**
-  - [Pydantic](https://github.com/pydantic/pydantic)  
-- **Database migration:**
+- **Python Validation:**
+  - [Pydantic](https://github.com/pydantic/pydantic): Python data validation
+- **Python Database migration:**
   - [Alembic](https://github.com/sqlalchemy/alembic)
   - [Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate)
 - **Python type checker**
@@ -93,6 +93,8 @@
   - [mypy](https://github.com/python/mypy): I prefer to use pyright.
 - **Python Linter & Formatters**
   - [ruff](https://docs.astral.sh/ruff/)
+- **JS/TS Validation**:
+  - [class-transformer](https://github.com/typestack/class-transformer)  
 - **API Testing**
   - [Postman](https://www.postman.com/)
 
