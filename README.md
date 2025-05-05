@@ -94,7 +94,7 @@
 - **Python Linter & Formatters**
   - [ruff](https://docs.astral.sh/ruff/)
 - **JS/TS Validation/Transformation**:
-  - [class-transformer](https://github.com/typestack/class-transformer)  
+  - [class-transformer](https://github.com/typestack/class-transformer) & [class-validator](https://github.com/typestack/class-validator/)
 - **API Testing**
   - [Postman](https://www.postman.com/)
 
