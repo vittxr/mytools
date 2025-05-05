@@ -2,6 +2,7 @@
 
 - **Frameworks:** 
   - [React](https://github.com/facebook/react)
+  - [NextJS](https://nextjs.org/)
   - [Svelte](https://github.com/sveltejs/svelte)  
 - **CSS Framework:**
   - [Tailwind](https://github.com/tailwindlabs/tailwindcss)
@@ -14,6 +15,7 @@
     - [more shadcn ui blocks](https://www.shadcnui-blocks.com/components/pagination)
   - [Radix ui](https://github.com/radix-ui/primitives)
   - [Tailwind Headlessui](https://github.com/tailwindlabs/headlessui)
+  - [DaisyUI](https://daisyui.com/)
 - **Form:**
   - [React Hook Form](https://github.com/react-hook-form/react-hook-form)  
 - **Schema/Form validation:** 
@@ -73,6 +75,7 @@
   - [FastAPI](https://github.com/tiangolo/fastapi)
   - [Flask](https://github.com/pallets/flask)
   - [Laravel](https://github.com/laravel/laravel)
+  - [ExpressJS](https://github.com/expressjs/express)
 - **ORM:**
   - [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy)
   - [SQLModel](https://github.com/tiangolo/sqlmodel)
