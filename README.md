@@ -57,6 +57,7 @@
   - [lucide-icons](https://github.com/lucide-icons/lucide)
   - [react-icons](https://github.com/react-icons/react-icons)
   - [devicons](https://devicon.dev/)
+  - [feathericons](https://github.com/feathericons/feather)
 - **Performance tools:**
   - [react-scan](https://github.com/aidenybai/react-scan): check components rerenders 
 - **Others:** 
