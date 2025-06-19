@@ -15,6 +15,7 @@
     - [more shadcn ui blocks](https://www.shadcnui-blocks.com/components/pagination)
     - [tweakcn](https://tweakcn.com/)
     - [shadcn theme editor](https://shadcnstudio.com/theme-editor)
+    - [Origin ui (more shadcn/ui components)](https://github.com/origin-space/originui)
   - [Radix ui](https://github.com/radix-ui/primitives)
   - [Tailwind Headlessui](https://github.com/tailwindlabs/headlessui)
   - [DaisyUI](https://daisyui.com/)
