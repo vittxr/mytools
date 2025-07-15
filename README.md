@@ -59,6 +59,8 @@
   - [react-icons](https://github.com/react-icons/react-icons)
   - [devicons](https://devicon.dev/)
   - [feathericons](https://github.com/feathericons/feather)
+- **Tree/filesystem view**:
+  - [react-arborist](https://github.com/brimdata/react-arborist)  
 - **Performance tools:**
   - [react-scan](https://github.com/aidenybai/react-scan): check components rerenders 
 - **Others:** 
