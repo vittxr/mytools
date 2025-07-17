@@ -130,7 +130,9 @@
   - [Systemd](https://systemd.io/)
   - [pm2](https://github.com/Unitech/pm2): NodeJS apps
 - **Firewall:**
-  - [UFW](https://help.ubuntu.com/community/UFW)  
+  - [UFW](https://help.ubuntu.com/community/UFW)
+  - [nmap - network mapper](https://flathub.org/pt-BR/apps/org.nmap.Zenmap)
+    - check all opened ports of ip or domain  
 - **Monitoring:**
   - [Sentry](https://github.com/getsentry/sentry): APM 
   - [Wireshark](https://www.wireshark.org/): network traffic 
