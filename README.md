@@ -167,7 +167,8 @@
 - **Video screen record**:
   - [SimpleScreenRecord](https://www.maartenbaert.be/simplescreenrecorder/)
 - **USB installation media (ISOs)**:
-  - [Ventoy](https://github.com/ventoy/Ventoy)  
+  - [Ventoy](https://github.com/ventoy/Ventoy)
+    - how to use: https://www.youtube.com/watch?v=11CkqZQ3scE  
   - [Balena Etcher](https://etcher.balena.io/#download-etcher)
   - [Rufus](https://github.com/pbatard/rufus)
     
