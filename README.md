@@ -166,7 +166,7 @@
   - Ubuntu
   - Linux mint
 - **Video screen record**:
-  - [Obs Studio] (https://flathub.org/en/apps/com.obsproject.Studio) 
+  - [Obs Studio](https://flathub.org/en/apps/com.obsproject.Studio) 
   - [SimpleScreenRecord](https://www.maartenbaert.be/simplescreenrecorder/)
 - **USB installation media (ISOs)**:
   - [Ventoy](https://github.com/ventoy/Ventoy)
