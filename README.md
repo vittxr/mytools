@@ -1,3 +1,19 @@
+### AIs
+
+- **LLMs:**
+  - [ChatGPT](https://github.com/openai)
+  - [Gemini](https://www.google.com/search?q=gemini+ai)
+  - [Deepseek](https://chat.deepseek.com/)
+  - [Grok](https://grok.com/)
+  - [Claude](https://claude.ai/)
+- **Logo generation:**
+  - [Logo.com](https://logo.com/)
+- **Software Creation Platform** 
+  - [Replit](https://replit.com/) 
+- **IDEs:**:
+  - [cursor](https://www.cursor.com/)
+
+
 ### Frontend
 
 - **Frameworks:** 
@@ -69,11 +85,13 @@
   - [jQuery](https://github.com/jquery/jquery)
   - [Lodash](https://github.com/lodash/lodash)  
 
+
 ### Mobile
 
 - **Frameworks:**
   - [Expo](https://github.com/expo/expo)
   - [React Native](https://github.com/facebook/react-native)  
+
 
 ### Backend
 
@@ -113,6 +131,7 @@
 - Util websites
   - [Draw SQL](https://drawsql.app/)
 
+
 ### Infra
 
 - **Clouds:** 
@@ -148,16 +167,6 @@
   - [qgis](https://www.qgis.org/): desktop app to analyze [prescription farming maps](https://www.automaticfarmsolution.com/post/how-prescription-maps-revolutionize-farming). 
 
 
-### AIs
-
-- **LLMs:**
-  - [ChatGPT](https://github.com/openai)
-  - [Gemini](https://www.google.com/search?q=gemini+ai)
-  - [Deepseek](https://chat.deepseek.com/)
-  - [Grok](https://grok.com/)
-  - [Claude](https://claude.ai/)
-- **Logo generation:** [Logo.com](https://logo.com/)  
-
 ### Linux
 
 - **Distros**:
@@ -173,12 +182,22 @@
     - how to use: https://www.youtube.com/watch?v=11CkqZQ3scE  
   - [Balena Etcher](https://etcher.balena.io/#download-etcher)
   - [Rufus](https://github.com/pbatard/rufus)
-    
-### Others
 
-- **Versioning:** [Git/GitHub](https://github.com/git/git)  
+
+### Low Code: 
+
+- [n8n](https://n8n.io/)
+
 
 ### IDE
 
 - [cursor](https://www.cursor.com/)
 - [vscode](https://code.visualstudio.com/)
+
+
+### Others
+
+- **Versioning:** [Git/GitHub](https://github.com/git/git)
+
+
+
