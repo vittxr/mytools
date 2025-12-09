@@ -9,7 +9,8 @@
 - **Logo generation:**
   - [Logo.com](https://logo.com/)
 - **Software Creation Platform** 
-  - [Replit](https://replit.com/) 
+  - [Replit](https://replit.com/)
+  - [Lovable](https://lovable.dev/)
 - **IDEs:**:
   - [cursor](https://www.cursor.com/)
 
