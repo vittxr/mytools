@@ -84,7 +84,11 @@
   - [TypeScript](https://github.com/microsoft/TypeScript)
   - [JavaScript](https://github.com/tc39)
   - [jQuery](https://github.com/jquery/jquery)
-  - [Lodash](https://github.com/lodash/lodash)  
+  - [Lodash](https://github.com/lodash/lodash)
+  - [node]()
+  - [npm]()
+  - [yarn]()
+  - [nvm](): manage multiples node versions. (I used only in windows, but it works in linux too)
 
 
 ### Mobile
@@ -194,11 +198,11 @@
 
 - [cursor](https://www.cursor.com/)
 - [vscode](https://code.visualstudio.com/)
+- [pycharm](https://www.jetbrains.com/pycharm/)
 
 
 ### Others
 
 - **Versioning:** [Git/GitHub](https://github.com/git/git)
-
 
 
