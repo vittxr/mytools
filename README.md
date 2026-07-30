@@ -1,26 +1,5 @@
 # Dev Stack & Tools
 
-## AI
-
-### LLMs
-- [ChatGPT](https://github.com/openai)
-- [Gemini](https://www.google.com/search?q=gemini+ai)
-- [DeepSeek](https://chat.deepseek.com/)
-- [Grok](https://grok.com/)
-- [Claude](https://claude.ai/)
-
-### Logo Generation
-- [Logo.com](https://logo.com/)
-
-### Software Creation Platforms
-- [Replit](https://replit.com/)
-- [Lovable](https://lovable.dev/)
-
-### IDEs
-- [Cursor](https://www.cursor.com/)
-
----
-
 ## Frontend
 
 ### Frameworks
@@ -231,6 +210,27 @@
   - [How to use](https://www.youtube.com/watch?v=11CkqZQ3scE)
 - [Balena Etcher](https://etcher.balena.io/#download-etcher)
 - [Rufus](https://github.com/pbatard/rufus)
+
+---
+
+## AI
+
+### LLMs
+- [ChatGPT](https://github.com/openai)
+- [Gemini](https://www.google.com/search?q=gemini+ai)
+- [DeepSeek](https://chat.deepseek.com/)
+- [Grok](https://grok.com/)
+- [Claude](https://claude.ai/)
+
+### Logo Generation
+- [Logo.com](https://logo.com/)
+
+### Software Creation Platforms
+- [Replit](https://replit.com/)
+- [Lovable](https://lovable.dev/)
+
+### IDEs
+- [Cursor](https://www.cursor.com/)
 
 ---
 
